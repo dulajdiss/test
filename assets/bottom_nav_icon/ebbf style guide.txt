@@ -1,0 +1,25 @@
+EBBF Style Guide
+----------------
+
+> Main headings: font-size:40px
+> Sub headings: font-size:22px
+> Paragraph: font-size:14px
+> Events images size: 370x*264x
+> Aboutus images size: 570*407px
+> gym page images size: 270*240px
+> athlete page image sizes: 270*243px
+> Coach page images size: 270*240px
+> News page images size:370*242px
+> media page images size: 370*302px
+> Contact us icons size: 75*75px
+> footer map size: 271*250px
+> footer master card image: 64*53px
+> footer visa image: 64*41px
+> footer social media icons: 42*42px
+> Headings in footer: font-size:22px
+> Quick menu content in footer: font-size:18px
+> Contact us content in footer: font-size:16px
+> ebbf logo: 120*111px
+> general authority of sports logo: 120*93px
+> E-services icon in header: 24*24px
+> button : padding 15px 35px
